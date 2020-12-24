@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.ajayk" name="ajayk Addon Repository" version="1.0" provider-name="Ajay K>
-	<extension point="xbmc.addon.repository" name="ajayk Addons Repository">
-		<info compressed="false">https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips</datadir>
+<addon id="repository.ajayk" name="AjayK Addon Repository" version="1.0" provider-name="AjayK">
+	<extension point="xbmc.addon.repository" name="AjayK Addons Repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Repo/Zips</datadir>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Third party Addons for Kodi</summary>
-		<description>ajayk Addons Repository</description>
+		<description>AjayK Addons Repository</description>
 		<platform>all</platform>
 	</extension>
 </addon>

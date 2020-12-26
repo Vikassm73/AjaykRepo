@@ -2,7 +2,7 @@
 
 Latest repository zip file for Kodi versions upto Leia is [repository.ajayk-1.0.zip](https://github.com/Vikassm73/AjaykRepo/blob/main/Zips/repository.ajayk-1.0.zip)
 
-## Addons in repository
+## Addons in the repository
 |Icon|Name|Version|Release Date|Status|
 |---|---|---|---|---|
 |<img src="https://github.com/Vikassm73/AjaykRepo/blob/main/Zips/plugin.video.MXPlayer/icon.png" width="96">|MX Player|1.0.0|[2020-12-25](https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips/plugin.video.MXPlayer/changelog.txt)|Working

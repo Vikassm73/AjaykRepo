@@ -52,7 +52,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.zee5" name="Zee 5" version="2.0.1" provider-name="Ajay K">
+	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.1" provider-name="Ajay K">
 		<requires>
 			<import addon="xbmc.python" version="2.25.0"/>
 			<import addon="script.module.routing" version="0.2.0"/>

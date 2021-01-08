@@ -1,2 +1,4 @@
 [B]Version 1.0.0[/B]
 - First release
+[B]Version 1.0.1[/B]
+- Bugs Fixing

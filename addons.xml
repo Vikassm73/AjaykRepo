@@ -3,9 +3,10 @@
 	<addon id="plugin.video.MXPlayer" name="MXPlayer" version="1.0.1" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.kodi-six" />
+			<import addon="script.module.six" />
 			<import addon="script.module.routing" version="0.2.0"/>
 			<import addon="script.module.requests" version="2.7.0"/>
-			<import addon="script.module.urlresolver" version="3.0.0"/>
+			<import addon="script.module.resolveurl" version="5.1.0"/>
 			<import addon="script.module.web-pdb" />
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="main.py">
@@ -31,6 +32,7 @@
 	</addon>
 	<addon id="plugin.video.voot" name="Voot" version="2.0.0" provider-name="Ajay K">
 		<requires>
+			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />
 			<import addon="script.module.requests" version="2.4.3"/>
 			<import addon="script.common.plugin.cache" version="2.5.5"/>
@@ -54,11 +56,11 @@
 	</addon>
 	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.1" provider-name="Ajay K">
 		<requires>
+			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />
 			<import addon="script.module.routing" version="0.2.0"/>
 			<import addon="script.module.requests" version="2.7.0"/>
 			<import addon="script.common.plugin.cache" version="2.5.5"/>
-			<import addon="script.module.kodi-six" version="0.0.5"/>
 			<import addon="script.module.web-pdb"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="main.py">

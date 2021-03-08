@@ -1,2 +1,4 @@
+[B]Version 2.0.1[/B]
+- Bugs Fixing
 [B]Version 2.0.0[/B]
 - First release

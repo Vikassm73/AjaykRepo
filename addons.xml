@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="plugin.video.MXPlayer" name="MXPlayer" version="1.0.2" provider-name="Ajay K">
+	<addon id="plugin.video.MXPlayer" name="MXPlayer" version="1.0.3" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.kodi-six" />
 			<import addon="script.module.six" />

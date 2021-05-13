@@ -86,6 +86,38 @@
 			</assets>
 		</extension>
 	</addon>
+	<addon id="plugin.video.sonyliv" version="2.0.0" name="SonyLIV" provider-name="Ajay K">
+<requires>
+	<import addon="script.module.six" />
+	<import addon="script.module.kodi-six" />
+	<import addon="script.module.requests" version="2.4.3"/>
+	<import addon="script.common.plugin.cache" version="2.5.5"/>
+	<import addon="script.module.web-pdb"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary>SonyLIV is a one stop destination for Audio/Video content from Sony Pictures Networks</summary>
+	<description>SonyLIV is the first premium Video on Demand (VOD) service by Sony Pictures Networks India Private Limited (SPN), providing multi-screen engagement to users on all devices.
+Launched in January 2013, it enables users to discover 20 years of rich content from the network channels of Sony Pictures Networks India Private Limited.
+	</description>
+	<platform>all</platform>
+	<website>https://www.sonyliv.com/</website>
+	<disclaimer>This 3rd party addon is not in any way commissioned or endorsed by Sony Pictures Networks India Pvt. Ltd.</disclaimer>
+	<news>
+[B]Version 1.1.7 - 10 Nov 2019[/B]
+- More Navigation fixes
+	</news>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+		<screenshot>resources/screenshot-01.jpg</screenshot>
+		<screenshot>resources/screenshot-02.jpg</screenshot>
+		<screenshot>resources/screenshot-03.jpg</screenshot>
+	</assets>
+</extension>
+</addon>
 	<addon id="repository.ajayk" name="AjayK Addon Repository" version="1.0" provider-name="Ajay K">
 		<extension point="xbmc.addon.repository" name="AjayK Addons Repository">
 			<dir>

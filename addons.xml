@@ -86,7 +86,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.sonyliv" version="2.0.2" name="SonyLIV" provider-name="Ajay K">
+	<addon id="plugin.video.sonyliv" version="2.0.3" name="SonyLIV" provider-name="Ajay K">
 <requires>
 	<import addon="script.module.six" />
 	<import addon="script.module.kodi-six" />
@@ -105,10 +105,6 @@ Launched in January 2013, it enables users to discover 20 years of rich content 
 	<platform>all</platform>
 	<website>https://www.sonyliv.com/</website>
 	<disclaimer>This 3rd party addon is not in any way commissioned or endorsed by Sony Pictures Networks India Pvt. Ltd.</disclaimer>
-	<news>
-[B]Version 1.1.7 - 10 Nov 2019[/B]
-- More Navigation fixes
-	</news>
 	<assets>
 		<icon>icon.png</icon>
 		<fanart>fanart.jpg</fanart>

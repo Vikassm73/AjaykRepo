@@ -81,8 +81,8 @@
 			<news></news>
 			<disclaimer></disclaimer>
 			<assets>
-				<icon>resources/icon_zee5.jpg</icon>
-				<fanart>resources/fanart_zee5.jpg</fanart>
+				<icon>resources/icon.jpg</icon>
+				<fanart>resources/fanart.jpg</fanart>
 			</assets>
 		</extension>
 	</addon>

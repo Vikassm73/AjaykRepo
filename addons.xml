@@ -86,7 +86,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.sonyliv" version="2.0.3" name="SonyLIV" provider-name="Ajay K">
+	<addon id="plugin.video.sonyliv" version="2.0.4" name="SonyLIV" provider-name="Ajay K">
 <requires>
 	<import addon="script.module.six" />
 	<import addon="script.module.kodi-six" />

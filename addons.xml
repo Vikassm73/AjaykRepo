@@ -123,9 +123,9 @@ Launched in January 2013, it enables users to discover 20 years of rich content 
 				<datadir zip="true">https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips</datadir>
 			</dir>
 			<dir>
-					<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-					<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-					<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+				<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
 			</dir>
 		</extension>
 		<extension point="xbmc.addon.metadata">

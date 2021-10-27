@@ -1,6 +1,6 @@
 # Kodi addons developed by Ajay K
 
-Latest repository zip file for Kodi is [repository.ajayk-1.1.zip](https://github.com/Vikassm73/AjaykRepo/blob/main/Zips/repository.ajayk-1.1.zip)
+Latest repository zip file for Kodi is [repository.ajayk-1.1.zip](https://github.com/Vikassm73/AjaykRepo/raw/main/Zips/repository.ajayk-1.1.zip)
 
 ## Addons in the repository
 |Icon|Name|Version|Release Date|Status|

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+	<addon id="plugin.video.MXPlayer" name="MXPlayer" version="1.0.5" provider-name="Ajay K">
+		<requires>
+			<import addon="script.module.kodi-six" />
+			<import addon="script.module.six" />
+			<import addon="script.module.routing" version="0.2.0"/>
+			<import addon="script.module.requests" version="2.7.0"/>
+			<import addon="script.module.resolveurl" version="5.1.0"/>
+			<import addon="script.module.web-pdb" />
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="main.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en_GB"></summary>
+			<description lang="en_GB"></description>
+			<language></language>
+			<platform>all</platform>
+			<license>GPL-3.0</license>
+			<forum></forum>
+			<website></website>
+			<email></email>
+			<source></source>
+			<news></news>
+			<disclaimer>This 3rd party addon is not in any way commissioned or endorsed by Mx player</disclaimer>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.png</fanart>
+			</assets>
+		</extension>
+	</addon>
+	<addon id="plugin.video.voot" name="Voot" version="2.0.2" provider-name="Ajay K">
+		<requires>
+			<import addon="script.module.six" />
+			<import addon="script.module.kodi-six" />
+			<import addon="script.module.requests" version="2.4.3"/>
+			<import addon="script.common.plugin.cache" version="2.5.5"/>
+			<import addon="script.module.web-pdb" />
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>VOOT - Watch Free Online TV Shows, Movies, Kids Shows HD Quality on VOOT.</summary>
+			<description>Voot is a video on-demand platform, part of Viacom 18 Digital Ventures, the digital arm of Viacom 18 covering Colors (Hindi), MTV, Nickelodeon, Viacom18 Motion Pictures, Colors Kannada, Colors Marathi, Colors Bangla, Colors Super and Colors Gujarati, Voot offers the biggest TV Shows, Blockbuster Movies, your favorite Toons &amp; Voot Originals, absolutely Free.</description>
+			<platform>all</platform>
+			<license>GPL-3.0</license>
+			<website>https://www.voot.com/</website>
+			<disclaimer>This 3rd party addon is not in any way commissioned or endorsed by Viacom 18</disclaimer>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
+		</extension>
+	</addon>
+	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.7" provider-name="Ajay K">
+		<requires>
+			<import addon="script.module.six" />
+			<import addon="script.module.kodi-six" />
+			<import addon="script.module.routing" version="0.2.0"/>
+			<import addon="script.module.requests" version="2.7.0"/>
+			<import addon="script.common.plugin.cache" version="2.5.5"/>
+			<import addon="script.module.web-pdb"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="main.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en_GB">At ZEE5, we believe that for entertainment to come alive, you need to feel it! With 12 Navigational, Featured languages across TV Shows, Movies, Original Web Series, International Shows, Acclaimed Plays and much more. Enjoy unlimited entertainment with 80+ LIVE TV channels and 100,000+ hours of video content in the language of your comfort for an experience that feels like home.</summary>
+			<description lang="en_GB">
+	At ZEE5, we believe that for entertainment to come alive, you need to feel it! With 12 Navigational, Featured languages across TV Shows, Movies, Original Web Series, International Shows, Acclaimed Plays and much more. Enjoy unlimited entertainment with 80+ LIVE TV channels and 100,000+ hours of video content in the language of your comfort for an experience that feels like home.
+	</description>
+			<language></language>
+			<platform>all</platform>
+			<license>GPL-3.0</license>
+			<forum></forum>
+			<website></website>
+			<email></email>
+			<source></source>
+			<news></news>
+			<disclaimer></disclaimer>
+			<assets>
+				<icon>icon.jpg</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
+		</extension>
+	</addon>
+	<addon id="plugin.video.sonyliv" version="2.0.6" name="SonyLIV" provider-name="Ajay K">
+<requires>
+	<import addon="script.module.six" />
+	<import addon="script.module.kodi-six" />
+	<import addon="script.module.requests" version="2.4.3"/>
+	<import addon="script.common.plugin.cache" version="2.5.5"/>
+	<import addon="script.module.web-pdb"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary>SonyLIV is a one stop destination for Audio/Video content from Sony Pictures Networks</summary>
+	<description>SonyLIV is the first premium Video on Demand (VOD) service by Sony Pictures Networks India Private Limited (SPN), providing multi-screen engagement to users on all devices.
+Launched in January 2013, it enables users to discover 20 years of rich content from the network channels of Sony Pictures Networks India Private Limited.
+	</description>
+	<platform>all</platform>
+	<website>https://www.sonyliv.com/</website>
+	<disclaimer>This 3rd party addon is not in any way commissioned or endorsed by Sony Pictures Networks India Pvt. Ltd.</disclaimer>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+		<screenshot>resources/screenshot-01.jpg</screenshot>
+		<screenshot>resources/screenshot-02.jpg</screenshot>
+		<screenshot>resources/screenshot-03.jpg</screenshot>
+	</assets>
+</extension>
+
+</addon>
+	<addon id="repository.ajayk" name="AjayK Addon Repository" version="1.1" provider-name="Ajay K">
+		<extension point="xbmc.addon.repository" name="AjayK Addons Repository">
+			<dir>
+				<info compressed="false">https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips</datadir>
+			</dir>
+			<dir>
+				<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+			</dir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>Third party Addons for Kodi</summary>
+			<description>AjayK Addons Repository</description>
+			<platform>all</platform>
+			<assets>
+				<icon>icon.png</icon>
+			</assets>
+		</extension>
+	</addon>
+</addons>

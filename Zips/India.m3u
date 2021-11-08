@@ -153,7 +153,7 @@ http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8x
 #EXTINF:-1,Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1,Food Food
+#EXTINF:-1,tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png" group-title="Documentery",Food Food
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentery",TLC
 http://jo123.biz:80/jweb/m3u8.php?c=TLC_Hindi&=800&e=.m3u8

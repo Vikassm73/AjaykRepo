@@ -4,7 +4,9 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/saamtv/2021-06/147be8c3-59eb-4715-92db-47de06f2f545/saamtv_logo.png",SAAM Marathi
 https://8ovgdkm5rmpw-hls-live.wmncdn.net:443/saam/live.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="",Jai Maharashtra
-plugin://plugin.video.youtube/play/?video_id=aRjbnAEnwtw
+plugin://plugin.video.youtube/play/?video_id=Pb-BEiEFdbo
+#EXTINF:0 tvg-logo="",Zee 24 Taas
+plugin://plugin.video.youtube/play/?video_id=6xtEufNUwuY
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
 #EXTINF:0 tvg-logo="http://visuallive.tv/upload/source/Zoomon%20Marathi%20Logo.png",ZoomOn News
@@ -60,7 +62,7 @@ http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.knews.in/assets/front_panel/images/logo.png" group-title="न्यूज़",K News India
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png",DD News
-plugin://plugin.video.youtube/play/?video_id=rr6UIK7SPug
+plugin://plugin.video.youtube/play/?video_id=MuZJf0HjR2g
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png",Sansad TV
 https://playhls.media.nic.in/live/rstv-360p/index.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/d_mrnowlogo.jpg",Mirror Now
@@ -109,6 +111,10 @@ http://14.199.164.20:4001/play/a0nc/index.m3u8
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1,9X Jhakaas
 http://14.199.164.20:4001/play/a0mx/index.m3u8
+#EXTINF:-1,Sangeet Marathi
+https://m-c02-j2apps.s.llnwi.net/hls/3724.SangeetMarathi.in_480p/index.m3u8
+#EXTINF:-1,Mailboli
+https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" ,Nazrana
 https://live.hungama.com:443/linear/nazrana/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" group-title="",Dil Se

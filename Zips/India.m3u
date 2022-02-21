@@ -3,7 +3,7 @@
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/saamtv/2021-06/147be8c3-59eb-4715-92db-47de06f2f545/saamtv_logo.png",SAAM Marathi
 https://8ovgdkm5rmpw-hls-live.wmncdn.net:443/saam/live.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="",Zee 24 Taas
+#EXTINF:0 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/channel_list/zee24taas11707d845042f4ef453a8568b6ba22b3f568.png",Zee 24 Taas
 plugin://plugin.video.youtube/play/?video_id=6xtEufNUwuY
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
@@ -35,7 +35,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live3/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bharat.republicworld.com/assets/images/rbharat-logo.jpg",Republic Bharat
 plugin://plugin.video.youtube/play/?video_id=911cntbvPBU
-#EXTINF:0 tvg-logo="",Times Now Navbharat
+#EXTINF:0 tvg-logo="https://s.timesnowhindi.com/s/v1/img/c_timesmobile.png",Times Now Navbharat
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 #EXTINF:0 tvg-logo="https://bharatsamachartv.in/wp-content/uploads/2021/10/Bharat-Samachar-1.png",Bharat Samachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p/index.m3u8
@@ -69,7 +69,7 @@ http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:w-173,h-34/r-logo-web.png" group-title="India(English)",Republic TV
 plugin://plugin.video.youtube/play/?video_id=2BP6mKGLp-g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch678.jpg" group-title="India-WebTV",NDTV 24x7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ndtv.com/static/images//video_2015/ndtv-24x7.png" group-title="India-WebTV",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="India(English)",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
@@ -103,11 +103,11 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg" group-title="Music",WoW Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
-#EXTINF:-1 tvg-logo="http://sldhnecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
+#EXTINF:-1 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png",9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aZ0f85I.png",9X Jhakaas
+#EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
 http://14.199.164.20:4001/play/a0mx/index.m3u8
 #EXTINF:-1 tvg-logo="https://sangeetmarat.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-marathi-logo.png",Sangeet Marathi
 https://m-c02-j2apps.s.llnwi.net/hls/3724.SangeetMarathi.in_480p/index.m3u8

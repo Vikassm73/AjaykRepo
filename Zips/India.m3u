@@ -79,7 +79,7 @@ https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 subtitles="000", CNN
+#EXTINF:-1 tvg-logo="", CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Hindi",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
@@ -108,20 +108,18 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-au
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
-http://14.199.164.20:4001/play/a0mx/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://sangeetmarat.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-marathi-logo.png",Sangeet Marathi
 https://m-c02-j2apps.s.llnwi.net/hls/3724.SangeetMarathi.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Mailboli
 https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/index.m3u8
-#EXTINF:0 group-title="Music" tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" ,Nazrana
+#EXTINF:0 group-title="Music" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1993/ic_logo_nzrana.png" ,Nazrana
 https://live.hungama.com:443/linear/nazrana/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" group-title="",Dil Se
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="",Dil Se
 https://live.hungama.com:443/linear/dil-se/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Music",Kadak Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/HdVHhYY.jpg" group-title="Music",Kadak Hits
 https://live.hungama.com:443/linear/kadak-hits/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="",Pop Pataka
+#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/Pop-Pataka.jpg" group-title="",Pop Pataka
 https://live.hungama.com:443/linear/pop-pataka/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Artist Aloud
 https://live.hungama.com:443/linear/artist-aloud/playlist_480p/index.m3u8
@@ -133,7 +131,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/nwxCDxG.png" group-title="",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.live/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Music",B4U Kadak
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg" group-title="Music",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="Movies",Shemaroo Hindi
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8

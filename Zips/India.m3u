@@ -69,7 +69,7 @@ http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:w-173,h-34/r-logo-web.png" group-title="India(English)",Republic TV
 plugin://plugin.video.youtube/play/?video_id=2BP6mKGLp-g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ndtv.com/static/images//video_2015/ndtv-24x7.png" group-title="India-WebTV",NDTV 24x7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="India-WebTV",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="India(English)",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
@@ -109,6 +109,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-au
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
 http://14.199.164.20:4001/play/a0mx/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://sangeetmarat.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-marathi-logo.png",Sangeet Marathi
 https://m-c02-j2apps.s.llnwi.net/hls/3724.SangeetMarathi.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Mailboli

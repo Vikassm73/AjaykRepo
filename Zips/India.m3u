@@ -121,10 +121,10 @@ https://live.hungama.com:443/linear/dil-se/playlist_480p/index.m3u8
 https://live.hungama.com:443/linear/kadak-hits/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/Pop-Pataka.jpg" group-title="",Pop Pataka
 https://live.hungama.com:443/linear/pop-pataka/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Artist Aloud
+#EXTINF:-1 tvg-logo="https://www.artistaloud.com/images/logo.png",Artist Aloud
 https://live.hungama.com:443/linear/artist-aloud/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" tvg-country="IN" tvg-url="" group-title="Hindi",Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png",Boogle Bollywood
+https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="Music",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music

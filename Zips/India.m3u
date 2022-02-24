@@ -81,9 +81,9 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_badge_2up.png", CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.goskribe.com/ImgSkribeExtra/c54d042b-54df-464a-8f71-4c1de9b1e331cnbc%20awwz.jpg" group-title="Hindi",CNBC Awaaz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://samachar4media.gumlet.io/53728-CNBC-Awaaj.jpg" group-title="Hindi",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="India(English)",CNBC TV 18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png",CNBC TV 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/ET_Now_2017.jpg",ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
@@ -147,46 +147,46 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY
-http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nicks-hd-plus-logo-300x300.jpg" tvg-name="Nick"  group-title="Kids",Nick Hindi
-http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids",Sonic Nickeloden
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids",Hungama Tv 
-http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Cartoon Network
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8gnLKuPOoAo/YNPUZLIpFII/AAAAAAAAACc/eqvkNxSMvuMb1tzJoTKbgn50R3dOVWFHwCLcBGAsYHQ/s320/1811px-Cartoon_Network_HD_logo.svg.png" group-title="Kids",CN HD+
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
-http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Kids",Big Magic
-https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8x
+##EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY
+#http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nicks-hd-plus-logo-300x300.jpg" tvg-name="Nick"  group-title="Kids",Nick Hindi
+#http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids",Sonic Nickeloden
+#http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids",Hungama Tv 
+#http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+##EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Cartoon Network
+#http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8gnLKuPOoAo/YNPUZLIpFII/AAAAAAAAACc/eqvkNxSMvuMb1tzJoTKbgn50R3dOVWFHwCLcBGAsYHQ/s320/1811px-Cartoon_Network_HD_logo.svg.png" group-title="Kids",CN HD+
+#http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
+#http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
+##EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Kids",Big Magic
+#https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8x
 #EXTINF:-1,Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1,tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png" group-title="Documentery",Food Food
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentery",TLC
-http://jo123.biz:80/jweb/m3u8.php?c=TLC_Hindi&=800&e=.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentery",Animal Planet
-https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery Hindi
-https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentery",Discovery Science Hindi
-https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
-https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentery",BBC Earth
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Documentery",Travel XP English
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+##EXTINF:0 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentery",TLC
+#http://jo123.biz:80/jweb/m3u8.php?c=TLC_Hindi&=800&e=.m3u8
+##EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentery",Animal Planet
+#https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+##EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery Hindi
+#https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+##EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentery",Discovery Science Hindi
+#https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
+##EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
+#https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentery",BBC Earth
+#https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+##EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Documentery",Travel XP English
+#https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Documentery",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentery",Love Nature
+##EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentery",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tillerdesign.com/wp-content/uploads/2019/07/popular-science-magazine_610_407_80.jpg" group-title="Documentery",Popular Science
-https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+##EXTINF:-1 tvg-logo="https://www.tillerdesign.com/wp-content/uploads/2019/07/popular-science-magazine_610_407_80.jpg" group-title="Documentery",Popular Science
+#https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png" group-title="Documentery", 4K Nature
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 

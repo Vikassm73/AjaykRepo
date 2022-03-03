@@ -37,6 +37,8 @@ https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live
 plugin://plugin.video.youtube/play/?video_id=911cntbvPBU
 #EXTINF:0 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2021/07/timesnownavbharat-696x465.jpg",Times Now Navbharat
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+#EXTINF:0 tvg-logo="https://storage.googleapis.com/bag_media_store/static_dev/static_root/images/logo.png",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bharatsamachartv.in/wp-content/uploads/2021/10/Bharat-Samachar-1.png",Bharat Samachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://lawgupshup.com/wp-content/uploads/2019/05/lawgupshup-Sahara-Samay.jpg",Sahara Samay
@@ -47,12 +49,12 @@ https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in_480p/index.m3u8
 https://m-c18-j2apps.s.llnwi.net/hls/7043.News1India.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="न्यूज़",Khabrain Abhi Tak
 https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
-#EXTINF:0 tvg-logo="https://storage.googleapis.com/bag_media_store/static_dev/static_root/images/logo.png",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://sudarshannews.in/images/logo.jpg",Sudarshan News
-https://m-c09-j2apps.s.llnwi.net/hls/7091.Sudarsahn.in_480p/index.m3u8
+https://m-c047-j2apps.s.llnwi.net/hls/7091.Sudarsahn.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://www.jantatv.com/images/logos/logo.png",Janata TV
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="",Hindi Khabar
+https://m-c07-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://firstindianews.com/images/logo.png",1st News
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg" group-title="न्यूज़",Jan TV
@@ -60,14 +62,14 @@ http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg" group-title="न्यूज़",K News India
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png",DD News
-https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in_480p/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=SIOM-RyamcI
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png",Sansad TV
 https://playhls.media.nic.in/live/rstv-360p/index.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/d_mrnowlogo.jpg",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/c_livetvbg.png",Times Now
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:w-173,h-34/r-logo-web.png" group-title="India(English)",Republic TV
+#EXTINF:-1 tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:w-173,h-34/r-logo-web.png" ,Republic TV
 plugin://plugin.video.youtube/play/?video_id=2BP6mKGLp-g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="India-WebTV",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@1.m3u8
@@ -89,8 +91,8 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/in/DDNational.in.png",DD National
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/fs_69301.jpg",EPIC
-https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+##EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/fs_69301.jpg",EPIC
+#https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://media.news24online.com/static_dev/static_root/E24/images/logo.png",E24
 https://m-c02-j2apps.s.loris.llnwd.net/hls/0389.E24.in_480p/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png",Zoom

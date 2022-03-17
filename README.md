@@ -7,5 +7,5 @@ Latest repository zip file for Kodi is [repository.ajayk-1.1.zip](https://github
 |---|---|---|---|---|
 |<img src="https://github.com/Vikassm73/AjaykRepo/blob/main/Zips/plugin.video.MXPlayer/icon.png" width="96">|MX Player|1.0.5|[2021-08-02](https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips/plugin.video.MXPlayer/changelog.txt)|Working
 |<img src="https://github.com/Vikassm73/AjaykRepo/blob/main/Zips/plugin.video.voot/icon.png" width="96">|Voot|2.0.2|[2021-04-08](https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips/plugin.video.voot/changelog.txt)|Working
-|<img src="https://github.com/Vikassm73/AjaykRepo/blob/main/Zips/plugin.video.zee5/icon.jpg" width="96">|Zee5|2.1.9|[2022-02-15](https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips/plugin.video.zee5/changelog.txt)|Working
+|<img src="https://github.com/Vikassm73/AjaykRepo/blob/main/Zips/plugin.video.zee5/icon.jpg" width="96">|Zee5|2.1.10|[2022-03-17](https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips/plugin.video.zee5/changelog.txt)|Working
 |<img src="https://github.com/Vikassm73/AjaykRepo/blob/main/Zips/plugin.video.sonyliv/icon.png" width="96">|Sonyliv|2.0.6|[2021-11-08](https://raw.githubusercontent.com/Vikassm73/AjaykRepo/main/Zips/plugin.video.sonyliv/changelog.txt)|Working

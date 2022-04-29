@@ -30,7 +30,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.voot" name="Voot" version="2.0.4" provider-name="Ajay K">
+	<addon id="plugin.video.voot" name="Voot" version="2.0.5" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />

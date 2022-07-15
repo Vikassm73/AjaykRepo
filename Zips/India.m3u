@@ -23,7 +23,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.indiatv.in/khabar-global/images/india-tv-in.png" group-title="Hindi",India TV
 https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://static.newsnation.in/livetv-logo/newsnation-player-logo-640x360.jpg",News Nation
-https://stream-05.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZRKLoyRYWVbF3Z8tPjOtoRDgK-DlZpPDysd3p1gZVp49)/dm/3/x7t0g3i/s/live-3.m3u8
+plugin://plugin.video.youtube/play/?video_id=zvWP91CRVxA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:0 tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0442.IndiaNews.in/1x1/5x/test_pic1552315699798.jpg",India News
@@ -46,7 +46,7 @@ https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="Hindi",Khabrain Abhi Tak
 https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
-#EXTINF:0 tvg-logo="https://firstindianews.com/images/logo.png",1st News
+#EXTINF:0 tvg-logo="https://firstindianews.com/images/logo.png",1st India News
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg" group-title="Hindi",Jan TV
 http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
@@ -65,7 +65,7 @@ https://m-c18-j2apps.s.llnwi.net/hls/7043.News1India.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://www.jantatv.com/images/logos/logo.png",Janata TV
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png",DD News
-https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in_480p/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=QmERLqjlHdo
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png",Sansad TV
 https://playhls.media.nic.in/live/rstv-360p/index.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/d_mrnowlogo.jpg",Mirror Now

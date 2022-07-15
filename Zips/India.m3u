@@ -23,7 +23,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.indiatv.in/khabar-global/images/india-tv-in.png" group-title="Hindi",India TV
 https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://static.newsnation.in/livetv-logo/newsnation-player-logo-640x360.jpg",News Nation
-plugin://plugin.video.youtube/play/?video_id=zvWP91CRVxA
+plugin://plugin.video.youtube/play/?video_id=g4bcwHntjOk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:0 tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0442.IndiaNews.in/1x1/5x/test_pic1552315699798.jpg",India News

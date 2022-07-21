@@ -23,7 +23,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.indiatv.in/khabar-global/images/india-tv-in.png" group-title="Hindi",India TV
 https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://static.newsnation.in/livetv-logo/newsnation-player-logo-640x360.jpg",News Nation
-plugin://plugin.video.youtube/play/?video_id=WcW97snmF04
+plugin://plugin.video.youtube/play/?video_id=FPfAuOpbJMI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:0 tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0442.IndiaNews.in/1x1/5x/test_pic1552315699798.jpg",India News
@@ -188,7 +188,7 @@ http://node100100-jsac121.in1.bitmana.io//live.php?c=Animal_Planet_Hindi&q=1200&
 #EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery Hindi
 http://node100100-jsac121.in1.bitmana.io//live.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentery",Discovery Science Hindi
-http://node100100-jsac121.in1.bitmana.io//live.php?c=Discovery_Science&q=1200&e=junk.m3u8
+http://103.55.144.46/hls/dis-science.m3u8
 #EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
 http://node100100-jsac121.in1.bitmana.io//live.php?c=Discovery_Turbo&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic

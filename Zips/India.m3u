@@ -11,7 +11,7 @@ https://see.lokshahi.live/live/index.m3u8
 #EXTINF:0 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/05/Zoom-On-News.jpg",ZoomOn News
 http://i-player.in:1935/zoom/live2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg",Jai Maharashtra
-plugin://plugin.video.youtube/play/?video_id=KbjWNDPqmXE
+plugin://plugin.video.youtube/play/?video_id=cFR_VMFIAOc
 #EXTINF:0 tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png",TV9 Marathi
 https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png",ABP Majha
@@ -155,10 +155,10 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Sport",DSport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Paki",92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Pakistan",Dunya News
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",Colors HD
+http://221.120.204.4:8080/colours-hd-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Pogo
 http://144.217.70.181:9587/hin2/POGO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD

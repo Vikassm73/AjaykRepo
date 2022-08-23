@@ -56,6 +56,12 @@ https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1399076447763918848/4S3ugogU_400x400.jpg",Hindi Khabar
 https://phando014.s.llnwi.net/hls/modn/list/8001/chunklist0.m3u8
+#EXTINF:0 tvg-logo="",C News Bharat
+https://legitpro.co.in/hls10/cnews/index.m3u8
+#EXTINF:0 tvg-logo="",SB News 24x7
+https://sbnews.livebox.co.in/sbnewshls/live.m3u8
+#EXTINF:0 tvg-logo="",News watch India
+https://sbnews.livebox.co.in/newswatchindiahls/news.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png",DD News
 plugin://plugin.video.youtube/play/?video_id=QmERLqjlHdo
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png",Sansad TV
@@ -109,7 +115,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-au
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-87 tvg-logo="https://macan.network/img/zingtv.jpg" group-title="MUSIC",Zing
-https://hammerhead-app-idtq8.ondigitalocean.app/autoq.php?c=9x_Jhakaas
+https://hammerhead-app-idtq8.ondigitalocean.app/autoq.php?c=Zi
 #EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
 https://hammerhead-app-idtq8.ondigitalocean.app/autoq.php?c=9x_Jhakaas
 #EXTINF:-1 tvg-logo="https://sangeetmarat.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-marathi-logo.png",Sangeet Marathi
@@ -129,7 +135,7 @@ https://live.hungama.com/linear/pop-pataka/playlist_playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.artistaloud.com/images/logo.png",Artist Aloud
 https://live.hungama.com/linear/artist-aloud/playlist_playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/boogle-bollywood-black.png",Boogle Bollywood
-https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in_480p/index.m3u8
+https://live.wmncdn.net/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/desi-tv-white.png",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music

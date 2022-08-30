@@ -84,7 +84,7 @@ https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC World
 http://ip2121.com:8081/live/bbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_badge_2up.png", CNN
+#EXTINF:-1 tvg-logo="https://i.cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_badge_2up.png",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://samachar4media.gumlet.io/53728-CNBC-Awaaj.jpg" group-title="Hindi",CNBC Awaaz
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
@@ -93,31 +93,31 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/ET_Now_2017.jpg",ET Now
 https://etnowhls.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_3.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/in/DDNational.in.png",DD National
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
 ##EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/fs_69301.jpg",EPIC
 #https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://media.news24online.com/static_dev/static_root/E24/images/logo.png",E24
-http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/719.stream/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png",Zoom
 https://zoomtgbcllive.akamaized.net/hls/live/2034713/zoomMSL4/chunklist_1.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://static.epg.best/in/9XM.in.png",9xM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://static.epg.best/in/Mastiii.in.png" ,Mastiii
-http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
+http://103.151.43.102:8000/play/a02p/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png",Music India
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 ##EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg" group-title="Music",WoW Music
 #https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="MUSIC",MTV Beats HD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+http://103.151.43.102:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MTunes+
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png",9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+http://103.151.43.102:8000/play/a04n/index.m3u8
 #EXTINF:-87 tvg-logo="https://macan.network/img/zingtv.jpg" group-title="MUSIC",Zing
-https://hammerhead-app-idtq8.ondigitalocean.app/autoq.php?c=Zi
+http://103.151.43.102:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
 https://hammerhead-app-idtq8.ondigitalocean.app/autoq.php?c=9x_Jhakaas
 #EXTINF:-1 tvg-logo="https://sangeetmarat.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-marathi-logo.png",Sangeet Marathi

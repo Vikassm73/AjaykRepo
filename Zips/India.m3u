@@ -10,7 +10,7 @@ https://see.lokshahi.live/live/index.m3u8
 #EXTINF:0 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/05/Zoom-On-News.jpg",ZoomOn News
 http://i-player.in:1935/zoom/live2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg",Jai Maharashtra
-plugin://plugin.video.youtube/play/?video_id=FopG9o7IhPA
+plugin://plugin.video.youtube/play/?video_id=deS6M4V6CGc
 #EXTINF:0 tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png",TV9 Marathi
 https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png",ABP Majha
@@ -65,7 +65,7 @@ https://sbnews.livebox.co.in/sbnewshls/live.m3u8
 #EXTINF:0 tvg-logo="",News watch India
 https://sbnews.livebox.co.in/newswatchindiahls/news.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png",DD News
-plugin://plugin.video.youtube/play/?video_id=E7LOo_g631Y
+plugin://plugin.video.youtube/play/?video_id=lt9h5CH9JNY
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png",Sansad TV
 https://playhls.media.nic.in/live/rstv-360p/index.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/d_mrnowlogo.jpg",Mirror Now

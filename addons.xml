@@ -91,8 +91,6 @@
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.codequick" version="1.0.2"/>
 			<import addon="script.module.inputstreamhelper" version="0.5.2"/>
-			<import addon="repository.botallen" version="2.0.0"/>
-			<import addon="script.module.web-pdb"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="addon.py">
 			<provides>video</provides>

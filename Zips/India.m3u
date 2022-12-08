@@ -21,11 +21,11 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.indiatv.in/khabar-global/images/india-tv-in.png" group-title="Hindi",India TV
 https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://static.newsnation.in/livetv-logo/newsnation-player-logo-640x360.jpg",News Nation
-http://dpny2.1234.uno:6061/newsnation/index.m3u8
+http://techmaxlive.ml/live.php?c=News_Nation&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:0 tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0442.IndiaNews.in/1x1/5x/test_pic1552315699798.jpg",India News
-http://dpny5.1234.uno:6061/indianews/index.m3u8
+http://techmaxlive.ml/live.php?c=Living_India_News&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_footer.png",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://smedia2.intoday.in/aajtak/at_4.130220/resources/theme_v2/common/images/homeLogo.png",AajTak
@@ -35,7 +35,8 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" group-title="Hindi",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 #EXTINF:0 tvg-logo="https://www.tv9bharatvarsh.com/wp-content/uploads/2020/01/BHARATVARSH-logo-1.png",TV9 Bharatvarsh
-https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_360p/chunks.m3u8
+#https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://bharat.republicworld.com/assets/images/rbharat-logo.jpg",Republic Bharat
 https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
 #EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/120207-logomain.jpg",Times Now Navbharat

@@ -54,13 +54,14 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.15" provider-name="Ajay K">
+	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.16" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />
 			<import addon="script.module.routing" version="0.2.0"/>
 			<import addon="script.module.requests" version="2.7.0"/>
 			<import addon="script.common.plugin.cache" version="2.5.5"/>
+			<import addon="script.module.inputstreamhelper" version="0.5.2"/>
 			<import addon="script.module.web-pdb"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="main.py">
@@ -86,7 +87,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.hotstar" name="Disney+ Hotstar" provider-name="AjayK, botallen" version="1.2.1">
+	<addon id="plugin.video.hotstar" name="Disney+ Hotstar" provider-name="AjayK, botallen" version="1.2.2">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.codequick" version="1.0.2"/>

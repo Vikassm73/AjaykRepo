@@ -30,7 +30,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.voot" name="Voot" version="2.0.7" provider-name="Ajay K">
+	<addon id="plugin.video.voot" name="Voot" version="2.0.8" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />
@@ -54,7 +54,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.17" provider-name="Ajay K">
+	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.18" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />

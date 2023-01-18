@@ -4,13 +4,13 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokma
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/saamtv/2021-06/147be8c3-59eb-4715-92db-47de06f2f545/saamtv_logo.png",SAAM Marathi
 https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/7/UY/CG/QO/54736329/zee-24-taas-250x250.jpg",Zee 24 Taas
-plugin://plugin.video.youtube/play/?video_id=6pSIbQ73lGM
+plugin://plugin.video.youtube/play/?video_id=80Q3UDSQLeA
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
 ##EXTINF:0 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/05/Zoom-On-News.jpg",ZoomOn News
 #http://i-player.in:1935/zoom/live2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg",Jai Maharashtra
-plugin://plugin.video.youtube/play/?video_id=LmSvncZOxSQ
+plugin://plugin.video.youtube/play/?video_id=SSOIk8_HDqo
 #EXTINF:0 tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png",TV9 Marathi
 https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live_360p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png",ABP Majha
@@ -49,12 +49,12 @@ https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg" group-title="Hindi",Jan TV
 http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/chunklist_w118299590.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",Janata TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/bBGs_he_TxhFxncS9VvQpnrL6sxZO0y-uhzf_dkb5OULq-iiPMAOfRNkLcMOben0UWp-J-Asag=s68-c-k-c0x00ffffff-no-rj" group-title="Hindi",Janata TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg" group-title="Hindi",K News India
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:0 tvg-logo="https://sudarshannews.in/images/logo.jpg",Sudarshan News
-https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
+https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://bharatsamachartv.in/wp-content/uploads/2021/10/Bharat-Samachar-1.png",Bharat Samachar
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1399076447763918848/4S3ugogU_400x400.jpg",Hindi Khabar
@@ -64,7 +64,7 @@ https://legitpro.co.in/hls10/cnews/index.m3u8
 #EXTINF:0 tvg-logo="",News watch India
 https://sbnews.livebox.co.in/newswatchindiahls/news.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png",DD News
-plugin://plugin.video.youtube/play/?video_id=lt9h5CH9JNY
+plugin://plugin.video.youtube/play/?video_id=0UtGWtPcOI4
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png",Sansad TV
 https://hls.media.nic.in/live/lstv-360p/index.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/d_mrnowlogo.jpg",Mirror Now
@@ -92,7 +92,7 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/ET_Now_2017.jpg",ET Now
 https://etnowhls.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_3.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/in/DDNational.in.png",DD National
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=877600.m3u8
 ##EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/fs_69301.jpg",EPIC
 #https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://media.news24online.com/static_dev/static_root/E24/images/logo.png",E24

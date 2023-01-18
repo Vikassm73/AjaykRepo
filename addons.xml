@@ -139,6 +139,39 @@
 			</assets>
 		</extension>
 	</addon>
+	<addon id="plugin.video.jiocinema" name="JioCinema" version="1.0.0" provider-name="Ajay K">
+		<requires>
+			<import addon="script.module.six" />
+			<import addon="script.module.kodi-six" />
+			<!--<import addon="script.module.routing" version="0.2.0"/>-->
+			<!--<import addon="script.module.requests" version="2.7.0"/>-->
+			<import addon="script.common.plugin.cache" version="2.5.5"/>
+			<!--<import addon="script.module.resolveurl" version="5.1.0"/>-->
+			<import addon="script.module.codequick" version="1.0.2"/>
+			<import addon="script.module.inputstreamhelper" version="0.5.2"/>
+			<import addon="script.module.web-pdb"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="addon.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en_GB">  </summary>
+			<description lang="en_GB"> </description>
+			<language> </language>
+			<platform>all</platform>
+			<license>GPL-3.0</license>
+			<forum> </forum>
+			<website> </website>
+			<email> </email>
+			<source> </source>
+			<news> </news>
+			<disclaimer> </disclaimer>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.png</fanart>
+			</assets>
+		</extension>
+	</addon>
 	<addon id="repository.ajayk" name="AjayK Addon Repository" version="1.1" provider-name="Ajay K">
 		<extension point="xbmc.addon.repository" name="AjayK Addons Repository">
 			<dir>

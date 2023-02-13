@@ -1,17 +1,19 @@
 #EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
+#EXTINF:0 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/05/Zoom-On-News.jpg",ZoomOn News
+plugin://plugin.video.youtube/play/?video_id=MyibfyvehWk
+#EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg",Lokshahi News
+#https://see.lokshahi.live/live/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=tSqDswPU7PM
+#EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg",Jai Maharashtra
+plugin://plugin.video.youtube/play/?video_id=TDze2cl9rYE
+#EXTINF:0 tvg-logo="",News State Maharashtra Goa
+plugin://plugin.video.youtube/play/?video_id=MWjgRhV5n4c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="INDIA",News18 Lokmat
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_100034_eng=100000-video=1830000.m3u8
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/saamtv/2021-06/147be8c3-59eb-4715-92db-47de06f2f545/saamtv_logo.png",SAAM Marathi
 https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/7/UY/CG/QO/54736329/zee-24-taas-250x250.jpg",Zee 24 Taas
 plugin://plugin.video.youtube/play/?video_id=80Q3UDSQLeA
-#EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg",Lokshahi News
-#https://see.lokshahi.live/live/index.m3u8
-plugin://plugin.video.youtube/play/?video_id=tSqDswPU7PM
-##EXTINF:0 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/05/Zoom-On-News.jpg",ZoomOn News
-#http://i-player.in:1935/zoom/live2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg",Jai Maharashtra
-plugin://plugin.video.youtube/play/?video_id=TDze2cl9rYE
 #EXTINF:0 tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png",TV9 Marathi
 https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live_360p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png",ABP Majha

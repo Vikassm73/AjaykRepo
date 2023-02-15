@@ -113,7 +113,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 #https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="MUSIC",MTV Beats HD
 https://72n5.short.gy/MTV_BTECH.m3u8
-##EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png",9X Jalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XJalwa/default/9XJalwa-audio_208482_und=208000-video=877600.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
 #EXTINF:0 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/05/Zoom-On-News.jpg" group-title="News",ZoomOn News
-plugin://plugin.video.youtube/play/?video_id=xNGLbDxljko
+plugin://plugin.video.youtube/play/?video_id=PG4ENp7dVzE
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
 #plugin://plugin.video.youtube/play/?video_id=YYLHCRxlCqk
 #EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg" group-title="News",Jai Maharashtra
-plugin://plugin.video.youtube/play/?video_id=ak-PC2WBKdE
+plugin://plugin.video.youtube/play/?video_id=YbgCqz6pXaU
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/iUGmBryBBIg/hqdefault_live.jpg" group-title="News",News State Maharashtra Goa
-plugin://plugin.video.youtube/play/?video_id=rIwvWZSqreo
+plugin://plugin.video.youtube/play/?video_id=iUGmBryBBIg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="News",News18 Lokmat
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_100034_eng=100000-video=1830000.m3u8
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/saamtv/2021-06/147be8c3-59eb-4715-92db-47de06f2f545/saamtv_logo.png" group-title="News",SAAM Marathi

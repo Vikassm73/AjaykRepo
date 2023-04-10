@@ -61,12 +61,13 @@ https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1399076447763918848/4S3ugogU_400x400.jpg" group-title="News",Hindi Khabar
 https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",C News Bharat
+#EXTINF:0 tvg-logo="https://cnewsbharat.com/dist/img/cnews-logo.png" group-title="News",C News Bharat
 https://legitpro.co.in/hls10/cnews/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",News watch India
+#EXTINF:0 tvg-logo="https://newswatchindia.com/wp-content/uploads/2022/03/logo-1.png" group-title="News",News watch India
 https://sbnews.livebox.co.in/newswatchindiahls/news.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="News",DD News
-plugin://plugin.video.youtube/play/?video_id=0UtGWtPcOI4
+#plugin://plugin.video.youtube/play/?video_id=0UtGWtPcOI4
+https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png" group-title="News",Sansad TV
 https://hls.media.nic.in/live/lstv-360p/index.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/d_mrnowlogo.jpg" group-title="News",Mirror Now

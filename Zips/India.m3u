@@ -236,6 +236,11 @@ https://bit.ly/3upll-ten1
 https://bit.ly/sonyhd2
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",City Of  Dreams
 https://s16.drop.download:182/d/etc3q3wz4xcdvbi4z27jjwixsdnug7khp5zw25juwzy7qpelluvyxn3atthycclpkkbmj4ek/City%20of%20Dreams%202023%20S03%20Hindi%20DSNP%20Web%20Series%20www.hdmovies50.pics%20720p%20HDRip%201.3GB.mkv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",City Of  Dreams 3
+https://bunnycdn.ydc1wes.me/hls2/01/00004/io51wlt4ca0j_l/master.m3u8?t=LMAQGS-iXisOYNNwEk8vlLx26arBh5OtOowbr3_l9Nw&s=1685612498&e=14400&f=24180&i=0.0&sp=0|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%206.0%3B%20Nexus%205%20Build%2FMRA58N)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F113.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fspeedostream.pm%2F&Origin=https%3A%2F%2Fspeedostream.pm
 
 #EXTINF:-1 group-title="radio" radio="true",Hungama -Hot New Bollywood
 http://103.16.47.70:7222/;

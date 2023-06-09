@@ -5,7 +5,7 @@ plugin://plugin.video.youtube/play/?video_id=NqDwPZHZAhw
 https://see.lokshahi.live/live/index.m3u8
 #plugin://plugin.video.youtube/play/?video_id=YYLHCRxlCqk
 #EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg" group-title="News",Jai Maharashtra
-plugin://plugin.video.youtube/play/?video_id=CqwlIKU-ix4
+plugin://plugin.video.youtube/play/?video_id=eWWzMykTaWw
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/iUGmBryBBIg/hqdefault_live.jpg" group-title="News",News State Maharashtra Goa
 plugin://plugin.video.youtube/play/?video_id=ulMiUDxSK10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="News",News18 Lokmat
@@ -42,7 +42,8 @@ https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live
 #EXTINF:0 tvg-logo="https://bharat.republicworld.com/assets/images/rbharat-logo.jpg" group-title="News",Republic Bharat
 https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
 #EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/120207-logomain.jpg" group-title="News",Times Now Navbharat
-https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 #EXTINF:0 tvg-logo="https://storage.googleapis.com/bag_media_store/static_dev/static_root/images/logo.png" group-title="News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="News",Khabrain Abhi Tak

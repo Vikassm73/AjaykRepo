@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="plugin.video.MXPlayer" name="MXPlayer" version="1.0.7" provider-name="Ajay K">
+	<addon id="plugin.video.MXPlayer" name="MXPlayer" version="1.0.8" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.kodi-six" />
 			<import addon="script.module.six" />
@@ -111,7 +111,7 @@
 			<reuselanguageinvoker>true</reuselanguageinvoker>
 		</extension>
 	</addon>
-	<addon id="plugin.video.sonyliv" version="2.0.17" name="SonyLIV" provider-name="Ajay K">
+	<addon id="plugin.video.sonyliv" version="2.0.18" name="SonyLIV" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />

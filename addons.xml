@@ -111,7 +111,7 @@
 			<reuselanguageinvoker>true</reuselanguageinvoker>
 		</extension>
 	</addon>
-	<addon id="plugin.video.sonyliv" version="2.0.18" name="SonyLIV" provider-name="Ajay K">
+	<addon id="plugin.video.sonyliv" version="2.0.19" name="SonyLIV" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />

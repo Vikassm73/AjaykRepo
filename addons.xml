@@ -139,7 +139,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.jiocinema" name="JioCinema" version="1.0.4" provider-name="Ajay K">
+	<addon id="plugin.video.jiocinema" name="JioCinema" version="1.0.5" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />

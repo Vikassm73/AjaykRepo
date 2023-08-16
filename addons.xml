@@ -54,7 +54,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.21" provider-name="Ajay K">
+	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.22" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />

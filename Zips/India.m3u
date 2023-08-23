@@ -5,9 +5,10 @@ plugin://plugin.video.youtube/play/?video_id=g5rGw6SG5D8
 https://see.lokshahi.live/live/index.m3u8
 #plugin://plugin.video.youtube/play/?video_id=YYLHCRxlCqk
 #EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg" group-title="News",Jai Maharashtra
-plugin://plugin.video.youtube/play/?video_id=DFz5e4WO_xQ
+#plugin://plugin.video.youtube/play/?video_id=DFz5e4WO_xQ
+https://ythls.onrender.com/channel/UCmBLIcqOLWwrrAJ-jaCttqw.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/iUGmBryBBIg/hqdefault_live.jpg" group-title="News",News State Maharashtra Goa
-plugin://plugin.video.youtube/play/?video_id=frqLOBQ3vHo
+plugin://plugin.video.youtube/play/?video_id=4FgLfNrD2v8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="News",News18 Lokmat
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98834_eng=98800-video=699600.m3u8
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/saamtv/2021-06/147be8c3-59eb-4715-92db-47de06f2f545/saamtv_logo.png" group-title="News",SAAM Marathi
@@ -103,12 +104,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_
 #EXTINF:0 group-title="Music" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-49.png?w=112" group-title="Music",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png" group-title="Music",Zoom
-https://zoomtgbcllive.akamaized.net/hls/live/2034713/zoomMSL4/chunklist_1.m3u8
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="Music",9xM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="Music",Mastiii
 #https://dai.google.com/linear/hls/event/n40NV2qQSrK55V5q8o_HCw/master.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/8d43a3ba-7501-4881-a0af-f26845e0d168/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/fd717be1-0914-44ed-bb10-827762c95647/2.m3u8
 #EXTINF:-1 tvg-id="591" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="Music",Music India
@@ -116,17 +117,17 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 ##EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg" group-title="Music",WoW Music
 #https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="Music",MTV Beats HD
-https://72n5.short.gy/MTV_BTECH.m3u8
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/MTV_Beats_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music",9X Jalwa
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XJalwa/default/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
-https://epg.pw/stream/fdfc859859345e9b18af9405d6a94816cfaf5aa91142c3cee25d1715f700ff7b.ctv
+http://183.89.246.119:8881/play/a08o/index.m3u8
 #EXTINF:-87 tvg-logo="https://macan.network/img/zingtv.jpg" group-title="Music",Zing
-https://epg.pw/stream/7a827adb9e0ca119596e69275465a955bf6485c61fa50ba27bf0cb9209abcaa8.ctv
+http://183.89.246.119:8881/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png" group-title="Music",9X Jhakaas
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XJhakaas/default/9XJhakaas-audio_208482_und=208000-video=877600.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://sangeetmarat.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-marathi-logo.png" group-title="Music",Sangeet Marathi
 https://hammerhead-app-idtq8.ondigitalocean.app/autoq.php?c=Sangeet_Marathi
 #EXTINF:-1 tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Mailboli
@@ -134,7 +135,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Fakt Marathi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Faktmarathi/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="Movies",Shemaroo Marathibana
-https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8
+https://livetv-channels.b-cdn.net/8042/chunklist0.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1993/ic_logo_nzrana.png" ,Nazrana
 https://live.hungama.com/linear/nazrana/playlist_playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="Music",Dil Se

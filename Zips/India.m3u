@@ -129,9 +129,9 @@ http://183.89.246.119:8881/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png" group-title="Music",9X Jhakaas
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://sangeetmarat.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-marathi-logo.png" group-title="Music",Sangeet Marathi
-https://hammerhead-app-idtq8.ondigitalocean.app/autoq.php?c=Sangeet_Marathi
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/165827
 #EXTINF:-1 tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Mailboli
-https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/index.m3u8
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Fakt Marathi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Faktmarathi/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="Movies",Shemaroo Marathibana
@@ -155,7 +155,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/nwxCDxG.png" group-title="Music",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg" group-title="Music",B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/49556
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="Movies",Shemaroo Hindi
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="Sport",DD Sports

@@ -30,30 +30,6 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.voot" name="Voot" version="2.0.9" provider-name="Ajay K">
-		<requires>
-			<import addon="script.module.six" />
-			<import addon="script.module.kodi-six" />
-			<import addon="script.module.requests" version="2.4.3"/>
-			<import addon="script.common.plugin.cache" version="2.5.5"/>
-			<import addon="script.module.web-pdb" />
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="default.py">
-			<provides>video</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary>VOOT - Watch Free Online TV Shows, Movies, Kids Shows HD Quality on VOOT.</summary>
-			<description>Voot is a video on-demand platform, part of Viacom 18 Digital Ventures, the digital arm of Viacom 18 covering Colors (Hindi), MTV, Nickelodeon, Viacom18 Motion Pictures, Colors Kannada, Colors Marathi, Colors Bangla, Colors Super and Colors Gujarati, Voot offers the biggest TV Shows, Blockbuster Movies, your favorite Toons &amp; Voot Originals, absolutely Free.</description>
-			<platform>all</platform>
-			<license>GPL-3.0</license>
-			<website>https://www.voot.com/</website>
-			<disclaimer>This 3rd party addon is not in any way commissioned or endorsed by Viacom 18</disclaimer>
-			<assets>
-				<icon>icon.png</icon>
-				<fanart>fanart.jpg</fanart>
-			</assets>
-		</extension>
-	</addon>
 	<addon id="plugin.video.zee5" name="Zee 5" version="2.1.22" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
@@ -139,7 +115,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.jiocinema" name="JioCinema" version="1.0.9" provider-name="Ajay K">
+	<addon id="plugin.video.jiocinema" name="JioCinema" version="1.0.10" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />

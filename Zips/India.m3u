@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
+#EXTM3U
 #EXTINF:0 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/05/Zoom-On-News.jpg" group-title="News",ZoomOn News
 plugin://plugin.video.youtube/play/?video_id=g5rGw6SG5D8
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
@@ -28,8 +28,8 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:0 tvg-logo="https://static.newsnation.in/livetv-logo/newsnation-player-logo-640x360.jpg" group-title="News",News Nation
 https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0442.IndiaNews.in/1x1/5x/test_pic1552315699798.jpg" group-title="News",India News
-# https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
-https://ythls.onrender.com/channel/UCgJ02VYByDODEIkOlxjg4xg.m3u8
+https://livetv.newsx.com/itv/itvnetwork5/chunklist_w2875901.m3u8
+# https://ythls.onrender.com/channel/UCgJ02VYByDODEIkOlxjg4xg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:0 tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_footer.png" group-title="News",Zee News
@@ -54,7 +54,7 @@ https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://firstindianews.com/images/logo.png" group-title="News",1st India News
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg" group-title="News",Jan TV
-http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/chunklist_w118299590.m3u8
+https://cdn.smartstream.video/smartstream-us/edge1/sc1jantv.stream_aac/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/bBGs_he_TxhFxncS9VvQpnrL6sxZO0y-uhzf_dkb5OULq-iiPMAOfRNkLcMOben0UWp-J-Asag=s68-c-k-c0x00ffffff-no-rj" group-title="News",Janata TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg" group-title="News",K News India

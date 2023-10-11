@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
 #EXTINF:0 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/05/Zoom-On-News.jpg" group-title="News",ZoomOn News
 plugin://plugin.video.youtube/play/?video_id=g5rGw6SG5D8
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News

@@ -63,7 +63,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.hotstar" name="Disney+ Hotstar" provider-name="AjayK, botallen" version="1.2.2">
+	<addon id="plugin.video.hotstar" name="Disney+ Hotstar" provider-name="AjayK, botallen" version="1.2.3">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.codequick" version="1.0.2"/>

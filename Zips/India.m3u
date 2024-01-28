@@ -4,6 +4,8 @@ plugin://plugin.video.youtube/play/?video_id=HJEARt4rU1I
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
 #plugin://plugin.video.youtube/play/?video_id=YYLHCRxlCqk
+#EXTINF:0 tvg-logo="" group-title="News",Pudhari News
+plugin://plugin.video.youtube/play/?video_id=gLEBO8EFMjI
 #EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg" group-title="News",Jai Maharashtra
 https://yuppftalive.akamaized.net/080823/jaimaharashtra/playlist.m3u8?ads.channel_name=JaiMaharashtra&ads.network_name=yupptv
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/iUGmBryBBIg/hqdefault_live.jpg" group-title="News",News State Maharashtra Goa
@@ -69,7 +71,7 @@ https://legitpro.co.in/hls10/cnews/index.m3u8
 #EXTINF:0 tvg-logo="https://newswatchindia.com/wp-content/uploads/2022/03/logo-1.png" group-title="News",News watch India
 https://sbnews.livebox.co.in/newswatchindiahls/news.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="News",DD News
-#plugin://plugin.video.youtube/play/?video_id=0UtGWtPcOI4
+#plugin://plugin.video.youtube/play/?video_id=dpPzS1_8zjM
 https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png" group-title="News",Sansad TV
 https://hls.media.nic.in/live/lstv-360p/index.m3u8

@@ -31,6 +31,8 @@ https://livetv.newsx.com/itv/itvnetwork5/chunklist_w2875901.m3u8
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
 #EXTINF:0 tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_footer.png" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:0 tvg-logo="" group-title="News",India News
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-153X116.png" group-title="News",AajTak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News",Good News Today
@@ -69,6 +71,10 @@ https://sbnews.livebox.co.in/newswatchindiahls/news.m3u8
 plugin://plugin.video.youtube/play/?video_id=dpPzS1_8zjM
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png" group-title="News",Sansad TV
 https://hls.media.nic.in/live/lstv-360p/index.m3u8
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News",Dunya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/Lahore_News.png" group-title="News",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/d_mrnowlogo.jpg" group-title="News",Mirror Now
 https://mrnhlslive.akamaized.net/hls/live/2034712/MIRRORNOW4MSL/chunklist_3.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/c_livetvbg.png" group-title="News",Times Now
@@ -84,7 +90,9 @@ https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.timesofisrael.com/www/uploads/2013/01/jazeera.jpg" group-title="News",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="News",BBC World
-http://ip2121.com:8081/live/bbc/playlist.m3u8
+https://cdn4.skygo.mn:443/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_badge_2up.png" group-title="News",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://samachar4media.gumlet.io/53728-CNBC-Awaaj.jpg" group-title="Hindi" group-title="News",CNBC Awaaz

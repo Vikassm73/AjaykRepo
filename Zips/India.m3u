@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="News",Pudhari News
-plugin://plugin.video.youtube/play/?video_id=Ac3t5alJadc
+plugin://plugin.video.youtube/play/?video_id=51AXaLmTAf0
 #EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg" group-title="News",Jai Maharashtra
 https://server.livelegitpro.in/jaimaharashtratv/jaimaharashtratv/index.fmp4.m3u8
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
@@ -8,7 +8,7 @@ https://see.lokshahi.live/live/index.m3u8
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/saamtv/2021-06/147be8c3-59eb-4715-92db-47de06f2f545/saamtv_logo.png" group-title="News",SAAM Marathi
 plugin://plugin.video.youtube/play/?video_id=13kXfFlfUdQ
 #https://live.wmncdn.net/saam/live.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",ND TV Marathi
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/NDTV_Marathi.jpg" group-title="News",ND TV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="News",News18 Lokmat
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
@@ -18,7 +18,7 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:0 tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png" group-title="News",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png" group-title="News",ABP Majha
-https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_majha/master_1280.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2018/03/News18-INDIA_LOGO_WEB_NEW_2.png" group-title="News",News 18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.indiatv.in/khabar-global/images/india-tv-in.png" group-title="News",India TV

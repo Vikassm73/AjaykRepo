@@ -42,12 +42,12 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@2.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg" group-title="News",TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://bharat.republicworld.com/assets/images/rbharat-logo.jpg" group-title="News",Republic Bharat
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/120207-logomain.jpg" group-title="News",Times Now Navbharat
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
+#EXTINF:0 tvg-logo="https://bharat.republicworld.com/assets/images/rbharat-logo.jpg" group-title="News",Republic Bharat
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="News",DD News
-plugin://plugin.video.youtube/play/?video_id=cSQ7egiOTaA
+plugin://plugin.video.youtube/play/?video_id=TxoAYWg64Ao
 #EXTINF:0 tvg-logo="https://hindi.news24online.com/wp-content/uploads/2022/07/logo.png" group-title="News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="News",Khabrain Abhi Tak

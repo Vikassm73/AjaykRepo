@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/play/?video_id=SvyoyFAiIDI
 #https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/NDTV_Marathi.jpg" group-title="News",ND TV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="News",News18 Lokmat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="News",News18 Marathi
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_108035_mar=108000-video=1684400.m3u8
 #EXTINF:0 tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/7/UY/CG/QO/54736329/zee-24-taas-250x250.jpg" group-title="News",Zee 24 Taas
 #plugin://plugin.video.youtube/play/?video_id=80Q3UDSQLeA
@@ -24,7 +24,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.indiatv.in/khabar-global/images/india-tv-in.png" group-title="News",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:0 tvg-logo="https://static.newsnation.in/livetv-logo/newsnation-player-logo-640x360.jpg" group-title="News",News Nation
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index_1.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index_5.m3u8
 #plugin://plugin.video.youtube/play/?video_id=9BWncKJwWAI
 #EXTINF:0 tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0442.IndiaNews.in/1x1/5x/test_pic1552315699798.jpg" group-title="News",India News
 https://livetv.newsx.com/itv/itvnetwork5/chunklist_w2875901.m3u8
@@ -72,8 +72,11 @@ https://legitpro.co.in/hls10/cnews/index.m3u8
 https://sbnews.livebox.co.in/newswatchindiahls/news.m3u8
 #EXTINF:0 tvg-logo="https://rstv.nic.in/wp-content/uploads/2021/09/sansadtvlogo.png" group-title="News",Sansad TV
 https://hls.media.nic.in/live/lstv-360p/index.m3u8
+#EXTINF:-1 tvg-logo="h" group-title="News",GIO TV
+plugin://plugin.video.youtube/play/?video_id=d5vNLHS5b6M
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News",Dunya News
-https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w3216447_b950272.m3u8
 #EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/Lahore_News.png" group-title="News",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/d_mrnowlogo.jpg" group-title="News",Mirror Now

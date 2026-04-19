@@ -11,7 +11,7 @@ plugin://plugin.video.youtube/play/?video_id=SvyoyFAiIDI
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/NDTV_Marathi.jpg" group-title="News",ND TV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="News",News18 Marathi
-https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_108035_mar=108000-video=1684400.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_108035_mar=108000-video=2297600.m3u8
 #EXTINF:0 tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/7/UY/CG/QO/54736329/zee-24-taas-250x250.jpg" group-title="News",Zee 24 Taas
 #plugin://plugin.video.youtube/play/?video_id=80Q3UDSQLeA
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8

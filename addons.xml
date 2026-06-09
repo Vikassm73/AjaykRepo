@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="plugin.video.MXPlayer" name="MXPlayer" version="1.0.8" provider-name="Ajay K">
+	<addon id="plugin.video.MXPlayer" name="MXPlayer" version="1.0.9" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.kodi-six" />
 			<import addon="script.module.six" />
@@ -23,7 +23,7 @@
 			<email></email>
 			<source></source>
 			<news></news>
-			<disclaimer>This 3rd party addon is not in any way commissioned or endorsed by Mx player</disclaimer>
+			<disclaimer></disclaimer>
 			<assets>
 				<icon>icon.png</icon>
 				<fanart>fanart.png</fanart>
@@ -87,7 +87,7 @@
 			<reuselanguageinvoker>true</reuselanguageinvoker>
 		</extension>
 	</addon>
-	<addon id="plugin.video.sonyliv" version="2.0.21" name="SonyLIV" provider-name="Ajay K">
+	<addon id="plugin.video.sonyliv" version="2.0.22" name="SonyLIV" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />
@@ -115,7 +115,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.jiocinema" name="JioCinema" version="1.0.11" provider-name="Ajay K">
+	<addon id="plugin.video.jiocinema" name="JioCinema" version="1.0.13" provider-name="Ajay K">
 		<requires>
 			<import addon="script.module.six" />
 			<import addon="script.module.kodi-six" />
